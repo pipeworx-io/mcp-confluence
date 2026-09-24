@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/confluence",
-  "title": "confluence",
+  "title": "Confluence",
   "description": "Confluence MCP — wraps the Confluence Cloud REST API v2 (OAuth)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/confluence",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-confluence",
