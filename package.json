@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-confluence",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Confluence MCP — wraps the Confluence Cloud REST API v2 (OAuth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "confluence",
     "gatewaySlug": "confluence",
-    "sourceHash": "v1-6e619ad11dbae943982949fa9c11c23076fa25b1d8a5b3230fb3befc65ddceba",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-502986a4f37eeed1514920cb1ff41ce4d01e9204f9b4b37378a6cbbea432a75c",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
